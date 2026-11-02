@@ -1,5 +1,2 @@
 ## Hi there 👋
-
-<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=1000&color=F70909&background=C6B11C&width=435&lines=%E5%96%9C%E6%8A%A5%EF%BC%9A%E6%88%91%E4%BB%8A%E5%A4%A9%E5%95%A5%E4%B9%9F%E6%B2%A1%E5%AD%A6%E4%BC%9A)](https://git.io/typing-svg)
--->
